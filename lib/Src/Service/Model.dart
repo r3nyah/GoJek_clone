@@ -1,0 +1,1 @@
+export 'WalletIcons.dart';
